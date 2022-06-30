@@ -8,8 +8,8 @@
 
 ## TECHs
 
- - [javascript]()
- - [terminal-kit]()
+ - [javascript](https://developer.mozilla.org/pt-BR/docs/Web/JavaScript)
+ - [terminal-kit](https://www.npmjs.com/package/terminal-kit)
 
 
 ## Running
